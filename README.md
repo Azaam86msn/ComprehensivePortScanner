@@ -126,8 +126,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to fork the repository, create a branch, and submit pull requests for improvements, bug fixes, or new features. Make sure to write appropriate unit tests for new features or bug fixes.
 
 ---
-
-### Contact
-
-For any questions or issues, feel free to open an issue on GitHub or contact the repository maintainer.
-```
